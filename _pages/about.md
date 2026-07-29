@@ -27,8 +27,8 @@ redirect_from:
 .pub-authors { font-size:0.88em; opacity:0.75; margin-bottom:9px; }
 .pub-authors .me { font-weight:700; opacity:1; }
 .pub-links { display:flex; flex-wrap:wrap; gap:7px; }
-.pub-links a { font-size:0.9em; font-weight:600; background:#0c6f8c; color:#fff; border-radius:7px; padding:6px 15px; text-decoration:none; }
-.pub-links a:hover { background:#0a5f78; text-decoration:none; }
+.pub-links a { font-size:0.9em; font-weight:600; background:#fff; color:#000; border:1px solid rgba(128,128,128,0.4); border-radius:7px; padding:3px 14px; text-decoration:none; }
+.pub-links a:hover { background:#eee; text-decoration:none; }
 .pub details { margin-top:9px; }
 .pub summary { cursor:pointer; font-size:0.8em; font-weight:600; opacity:0.8; list-style:none; }
 .pub summary::-webkit-details-marker { display:none; }
