@@ -19,9 +19,9 @@ redirect_from:
 .ab-chip { display:inline-block; background:rgba(128,128,128,0.14); border:1px solid rgba(128,128,128,0.3); border-radius:999px; padding:4px 12px; font-size:0.85em; margin:0 5px 6px 0; }
 /* Publications */
 .pubs-title { font-size:1.4em; font-weight:700; margin:2.2rem 0 0.3rem; padding-bottom:0.3rem; border-bottom:2px solid rgba(128,128,128,0.25); }
-.pub { display:flex; gap:18px; padding:18px 0; border-bottom:1px solid rgba(128,128,128,0.16); align-items:flex-start; }
-.pub-thumb { flex:0 0 180px; }
-.pub-thumb img { width:100%; border-radius:8px; border:1px solid rgba(128,128,128,0.2); background:rgba(128,128,128,0.1); min-height:105px; display:block; }
+.pub { padding:22px 0; border-bottom:1px solid rgba(128,128,128,0.16); }
+.pub-thumb { margin-bottom:13px; }
+.pub-thumb img { width:100%; border-radius:10px; border:1px solid rgba(128,128,128,0.2); background:rgba(128,128,128,0.1); display:block; }
 .pub-venue { display:inline-block; background:rgba(128,128,128,0.16); border-radius:5px; padding:2px 9px; font-size:0.72em; font-weight:700; letter-spacing:0.02em; }
 .pub-title { font-weight:700; font-size:1.02em; margin:7px 0 4px; line-height:1.35; }
 .pub-authors { font-size:0.88em; opacity:0.75; margin-bottom:9px; }
@@ -38,10 +38,6 @@ redirect_from:
 @media (max-width: 920px) {
   .ab-grid { grid-template-columns:1fr; gap:1.2rem; }
   .ab-news { border-left:none; padding-left:0; margin-top:0.5rem; }
-}
-@media (max-width: 640px) {
-  .pub { flex-direction:column; gap:12px; }
-  .pub-thumb { flex-basis:auto; max-width:300px; }
 }
 /* This page only: remove the theme's large right gap (susy suffix) so the
    News column reaches the right edge of the content instead of floating mid-page. */
