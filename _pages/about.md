@@ -30,10 +30,10 @@ redirect_from:
 <div class="ab-grid">
 <div class="ab-main">
 <p>I am <strong>Seungwoo Eun</strong>. I work on <strong>3D interaction techniques for Extended Reality (XR)</strong>: how people select and manipulate objects in virtual space, especially content that is far away or at a <strong>scale</strong> that is hard to reach directly.</p>
-<p>Much of my work is on <strong>remote interaction</strong>: helping users handle distant objects as easily as nearby ones, even when they differ a lot in <strong>scale</strong>. I prototype these techniques and test them with real users.</p>
+<p>Much of my work is on <strong>remote interaction</strong>: helping users handle distant objects as easily as nearby ones, even when they differ a lot in <strong>scale</strong>.</p>
 <p>I recently finished my <strong>M.S. in Artificial Intelligence</strong> at <strong>Pusan National University</strong> (<a href="https://sites.google.com/view/xrhci/home"><strong>XR Lab</strong></a>, advised by Prof. Myungho Lee), after a <strong>B.S. in Electrical and Computer Engineering</strong> there in 2024. Building on that, I want to bring <strong>AI</strong> into <strong>spatial computing</strong>, designing XR interfaces that read a user's context and intent so that 3D content and its visualization are easier to explore and work with.</p>
 <p style="margin:1.3em 0 1.4em;"><span class="ab-chip">XR</span><span class="ab-chip">VR / AR</span><span class="ab-chip">3D Interaction</span><span class="ab-chip">3D User Interfaces</span><span class="ab-chip">Remote Interaction</span><span class="ab-chip">Scale-Adaptive Interaction</span><span class="ab-chip">Spatial Computing</span><span class="ab-chip">AI for XR</span><span class="ab-chip">Visualization</span><span class="ab-chip">HCI</span></p>
-<p>Feel free to reach out via <a href="mailto:aglraswe@gmail.com">email</a>. I am always up for talking about <strong>XR</strong>, <strong>3D interaction</strong>, <strong>AI</strong>, or <strong>visualization</strong>.</p>
+<p>I love small talks about <strong>XR</strong>, <strong>3D Interaction</strong>, and <strong>Visualization</strong>! Feel free to <a href="mailto:aglraswe@gmail.com">reach out</a>!</p>
 </div>
 <div class="ab-news">
 <div class="ab-news-title">News</div>
