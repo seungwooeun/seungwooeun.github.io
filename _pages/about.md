@@ -39,22 +39,22 @@ redirect_from:
 <div class="ab-news">
 <div class="ab-news-title">News</div>
 <div class="ab-year">2026</div>
-<div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">Paper accepted to IEEE ISMAR 2026 🎉</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">Attended the KIISE CG&amp;I Workshop</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Mar</span><span class="n">Presented a poster at IEEE VR 2026</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Feb</span><span class="n">Graduated with an M.S. from the XR Lab, Pusan National University</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">🎉 Paper accepted to IEEE ISMAR 2026</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">👥 Attended the KIISE CG&amp;I Workshop</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Mar</span><span class="n">🖼️ Presented a poster at IEEE VR 2026</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Feb</span><span class="n">🎓 Graduated with an M.S. from the XR Lab, Pusan National University</span></div>
 <div class="ab-year">2025</div>
-<div class="ab-news-item"><span class="ab-news-date">Dec</span><span class="n">Poster accepted to IEEE VR 2026</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Dec</span><span class="n">Completed my M.S. thesis defense</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Oct</span><span class="n">Attended IEEE ISMAR 2025 and presented my paper</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Sep</span><span class="n">Presented "Pitch My Work" (Walk-In-Place) at APMAR 2025</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Sep</span><span class="n">Presented a Scalable Portal paper at APMAR 2025</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Jul</span><span class="n">Paper accepted to IEEE ISMAR 2025</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Dec</span><span class="n">🎉 Poster accepted to IEEE VR 2026</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Dec</span><span class="n">🛡️ Completed my M.S. thesis defense</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Oct</span><span class="n">🎤 Attended IEEE ISMAR 2025 and presented my paper</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Sep</span><span class="n">🎤 Presented "Pitch My Work" (Walk-In-Place) at APMAR 2025</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Sep</span><span class="n">🎤 Presented a Scalable Portal paper at APMAR 2025</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Jul</span><span class="n">🎉 Paper accepted to IEEE ISMAR 2025</span></div>
 <div class="ab-year">2024</div>
-<div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">Attended the KIISE CG&amp;I Workshop</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Mar</span><span class="n">Began my M.S. in the XR Lab, Pusan National University</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">👥 Attended the KIISE CG&amp;I Workshop</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Mar</span><span class="n">📚 Began my M.S. in the XR Lab, Pusan National University</span></div>
 <div class="ab-year">2023</div>
-<div class="ab-news-item"><span class="ab-news-date">Nov</span><span class="n">3rd place, campus Capstone competition (real-time 3D reconstruction pipeline using NeRF)</span></div>
-<div class="ab-news-item"><span class="ab-news-date">Mar</span><span class="n">Joined the XR Lab as an undergraduate research intern</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Nov</span><span class="n">🥉 3rd place, campus Capstone competition (real-time 3D reconstruction pipeline using NeRF)</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Mar</span><span class="n">🌱 Joined the XR Lab as an undergraduate research intern</span></div>
 </div>
 </div>
