@@ -20,6 +20,11 @@ redirect_from:
   .ab-grid { grid-template-columns:1fr; gap:1.2rem; }
   .ab-news { border-left:none; padding-left:0; margin-top:0.5rem; }
 }
+/* This page only: remove the theme's large right gap (susy suffix) so the
+   News column reaches the right edge of the content instead of floating mid-page. */
+@media screen and (min-width: 925px) {
+  .page { padding-right: 0 !important; margin-right: 0 !important; }
+}
 </style>
 
 <div class="ab-grid">
