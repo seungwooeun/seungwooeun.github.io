@@ -34,13 +34,13 @@ Publications
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
+    <li>{{ post.title }}. <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}.</li>
   {% endfor %}</ul>
 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
+    <li>{{ post.title }}. <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}.</li>
   {% endfor %}</ul>
 
 Honors and Awards
