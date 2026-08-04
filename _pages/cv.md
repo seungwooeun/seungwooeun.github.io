@@ -28,7 +28,7 @@ Research Interests
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    <li>{% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}. <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}.</li>
   {% endfor %}</ul>
 
 Talks
