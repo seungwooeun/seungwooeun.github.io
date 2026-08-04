@@ -19,11 +19,11 @@ Education
 
 Research Interests
 ======
-* Virtual and Augmented Reality (VR/AR)
-* 3D User Interfaces and interaction techniques
-* Object manipulation and locomotion in immersive VR
+* Extended Reality (XR): Virtual and Augmented Reality
+* 3D User Interfaces and Interaction Techniques
+* Spatial Computing
+* Visualization
 * Human–Computer Interaction (HCI)
-* Immersive visualization
 
 Publications
 ======
@@ -45,4 +45,4 @@ Teaching
 
 Honors and Awards
 ======
-* 3rd Place, Campus Capstone Design Competition — real-time 3D reconstruction pipeline using NeRF, Pusan National University, 2023
+* 3rd place, Campus Capstone Design Competition (real-time 3D reconstruction pipeline using NeRF), Pusan National University, 2023
