@@ -6,6 +6,7 @@ permalink: /publication/2026-scale-control-portal
 excerpt: 'A within-subject VR study (N=31) comparing four scale-control strategies for portal-based remote object manipulation.'
 date: 2026-10-01
 venue: 'IEEE ISMAR 2026 (to appear)'
+paperurl: '/files/2026_ISMAR_Eun_Portal_Based_Scale_Control_Strategies_Paper.pdf'
 citation: 'Seungwoo Eun, Isaac Cho, and Myungho Lee. (2026). &quot;Investigating Scale-Control Strategies for Portal-Based Remote Object Manipulation in Virtual Reality.&quot; <i>IEEE ISMAR 2026 (to appear)</i>.'
 ---
 
