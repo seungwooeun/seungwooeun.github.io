@@ -23,7 +23,7 @@ repository               : "seungwooeun/seungwooeun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Seungwoo_Eun_Profile.jpg"
   name             : "Seungwoo Eun"
   pronouns         : "he/him"  
   bio              : "HCI · VR/AR · 3D UI Researcher"
