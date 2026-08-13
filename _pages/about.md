@@ -89,6 +89,7 @@ redirect_from:
 <div class="ab-news">
 <div class="ab-news-title">News</div>
 <div class="ab-year">2026</div>
+<div class="ab-news-item"><span class="ab-news-date">Oct</span><span class="n">🙋 I will attend IEEE ISMAR 2026 as a Student Volunteer</span></div>
 <div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">🎉 Paper accepted to IEEE ISMAR 2026</span></div>
 <div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">👥 Attended the KIISE CG&amp;I Workshop</span></div>
 <div class="ab-news-item"><span class="ab-news-date">Mar</span><span class="n">🖼️ Presented a poster at IEEE VR 2026</span></div>
