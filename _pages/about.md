@@ -61,7 +61,7 @@ redirect_from:
 <div class="pub-title">Investigating Scale-Control Strategies for Portal-Based Remote Object Manipulation in Virtual Reality</div>
 <div class="pub-thumb"><img src="/images/pub-scale-control.png" alt="Investigating Scale-Control Strategies for Portal-Based Remote Object Manipulation in VR"></div>
 <div class="pub-authors"><span class="me">Seungwoo Eun</span>, Isaac Cho, Myungho Lee</div>
-<div class="pub-links"><a href="/files/2026_ISMAR_Eun_Portal_Based_Scale_Control_Strategies_Paper.pdf">Paper</a><a href="https://youtu.be/gOwNC-v-3pY">Video</a><span style="font-size:0.78em; opacity:0.55;">To appear</span></div>
+<div class="pub-links"><a href="/files/2026_ISMAR_Eun_Portal_Based_Scale_Control_Strategies_Paper.pdf">Paper</a><a href="https://youtu.be/gOwNC-v-3pY">Video</a><a href="https://ieeexplore.ieee.org/document/11764142">DOI</a></div>
 <details><summary>Abstract</summary><p>Portal-based interaction enables users to access and manipulate distant content without physical navigation. However, effective remote manipulation remains challenging due to mismatches between the object and interaction scales, which reduce control precision and increase coordination effort. In this study, we investigate how different scale-management strategies in portal-based interaction affect task performance and user experience in virtual reality (VR). We designed four portal techniques that vary in how interaction scale is controlled during manipulation: fixed-scale, manually scalable, overview+detail, and transfer-based configurations. We conducted a within-subject VR experiment (N = 31) using a remote 6 Degree-of-Freedom (DoF) docking task with objects of varying sizes. Results show that the four strategies differed in manipulation performance, particularly for smaller objects. Multi-portal configurations improved efficiency by providing task-appropriate interaction scales, whereas single-portal approaches offered simpler workflows but required additional user effort. These findings show how scale-management strategies trade off across task phases and provide design guidance for portal-based manipulation in VR.</p></details>
 </div>
 </div>
@@ -89,6 +89,8 @@ redirect_from:
 <div class="ab-news">
 <div class="ab-news-title">News</div>
 <div class="ab-year">2026</div>
+<div class="ab-news-item"><span class="ab-news-date">Nov</span><span class="n">🙋 Served as a Student Volunteer at VRST 2026</span></div>
+<div class="ab-news-item"><span class="ab-news-date">Nov</span><span class="n">🏆 Received the Best Student Volunteer Award at VRST 2026</span></div>
 <div class="ab-news-item"><span class="ab-news-date">Oct</span><span class="n">🙋 I will attend IEEE ISMAR 2026 as a Student Volunteer</span></div>
 <div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">🎉 Paper accepted to IEEE ISMAR 2026</span></div>
 <div class="ab-news-item"><span class="ab-news-date">Jun</span><span class="n">👥 Attended the KIISE CG&amp;I Workshop</span></div>
